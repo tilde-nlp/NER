@@ -10,3 +10,6 @@ see run_lv_test.bat. python code runs as well on linux too.
 
 ## Contact
 If you have any questions, contact rinalds.viksna at tilde.lv
+
+## Acknowledgment
+The research has been supported by the European Regional Development Fund within the project “Multilingual Artificial Intelligence Based Human Computer Interaction” No. 1.1.1.1/18/A/148.
