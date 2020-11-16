@@ -387,7 +387,7 @@ class NERDetector():
                 if label == 'X': continue
                 if p_label == 'X': 
                     p_label = last_label
-                if p_label == '[CLS]':
+                if p_label in ['[CLS]','[SEP]','[PAD]']:
                     p_label = 'O'
                 if 'I-' == p_label[0:2]:
                     if not p_label[2:] == last_label[2:]:
